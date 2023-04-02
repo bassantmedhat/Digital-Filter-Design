@@ -38,8 +38,6 @@ pip install -r requirements.txt
 python app.py
 ````
 
-<br></br>
-
 ## Contributors
 <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s">  <a id ="Contributors"></a>
 
