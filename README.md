@@ -1,3 +1,4 @@
+
 # Filter-Design
 
 - [Filter-Design](#filter-design)
@@ -35,3 +36,20 @@ pip install -r requirements.txt
 2. **_Run the application_**
 ```sh
 python app.py
+````
+
+<br></br>
+
+## Contributors
+<img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s">  <a id ="Contributors"></a>
+
+<table align="center" >
+  <tr>
+        <td align="center"><a href="https://github.com/bassantmedhat"><img src="https://avatars.githubusercontent.com/u/85830264?v=4" width="150px;" alt=""/><br /><sub><b>Bassant Medhat</b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/MariamTurky"><img src="https://avatars.githubusercontent.com/u/93421790?v=4" width="150px;" alt=""/><br /><sub><b>Mariam Ahmed</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Sherif-2001"><img src="https://avatars.githubusercontent.com/u/93449171?v=4" width="150px;" alt=""/><br /><sub><b>Sherif Ahmed</b></sub></a><br />
+    </td>
+    <td align="center"><a href="https://github.com/Dina153"><img src="https://avatars.githubusercontent.com/u/81557785?v=4" width="150px;" alt=""/><br /><sub><b>Dina Mostafa</b></sub></a><br />
+     </td>
+  </tr>
+</table>
