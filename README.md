@@ -25,7 +25,7 @@ available in website to add to original filter
 
 
 ## Filter Design Demo
-![]
+![](https://github.com/bassantmedhat/Digital-Filter-Design/blob/main/doc/Design-Filter.gif)
 
 ## Run-App
 1. **_install project  dependencies_**
