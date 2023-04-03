@@ -26,8 +26,9 @@ available in website to add to original filter
 
 
 ## Filter Design Demo
-![](https://github.com/bassantmedhat/Digital-Filter-Design/blob/main/doc/Design-Filter.gif)
-
+<p align="center">
+<img src="https://github.com/bassantmedhat/Digital-Filter-Design/blob/main/doc/task5_demo.gif" width="400" height="200"/>
+</p>
 ## Run-App
 1. **_install project  dependencies_**
 ```sh
