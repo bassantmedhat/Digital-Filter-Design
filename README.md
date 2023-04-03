@@ -26,9 +26,11 @@ available in website to add to original filter
 
 
 ## Filter Design Demo
-<p align="center">
-<img src="https://github.com/bassantmedhat/Digital-Filter-Design/blob/main/doc/task5_demo.gif" width="500" height="250"/>
-</p>
+
+
+
+https://user-images.githubusercontent.com/85830264/229541751-5dd7abf3-76f5-489d-abd1-8961aacee574.mp4
+
 
 
 ## Run-App
